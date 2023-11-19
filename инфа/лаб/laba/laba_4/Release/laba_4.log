@@ -1,0 +1,4 @@
+﻿  laba_4.cpp
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\laba_4.cpp(14,2): error C2660: getch: функция не принимает 1 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\conio.h(444,30): message : см. объявление "getch"
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\laba_4.cpp(14,2): message : при попытке сопоставить список аргументов "(int)"

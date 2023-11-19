@@ -1,0 +1,5 @@
+﻿  TranslateString.cpp
+  laba_3.cpp
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_3\laba_3.cpp(169,27): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+  Создание кода...
+  laba_3.vcxproj -> C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\Debug\laba_3.exe

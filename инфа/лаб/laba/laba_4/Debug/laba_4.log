@@ -1,0 +1,18 @@
+﻿  laba_4.cpp
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(27,35): warning C4244: return: преобразование "double" в "unsigned short", возможна потеря данных
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(94,16): warning C4101: test: неиспользованная локальная переменная
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(150,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(165,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(163,16): warning C4101: test: неиспользованная локальная переменная
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(183,44): warning C4838: Преобразование из "unsigned short" в "SHORT" требует сужающего преобразования.
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(183,57): warning C4838: Преобразование из "unsigned short" в "SHORT" требует сужающего преобразования.
+  UILib.cpp
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(27,35): warning C4244: return: преобразование "double" в "unsigned short", возможна потеря данных
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(94,16): warning C4101: test: неиспользованная локальная переменная
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(150,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(165,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(163,16): warning C4101: test: неиспользованная локальная переменная
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(183,44): warning C4838: Преобразование из "unsigned short" в "SHORT" требует сужающего преобразования.
+C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\laba_4\UILib.cpp(183,57): warning C4838: Преобразование из "unsigned short" в "SHORT" требует сужающего преобразования.
+  Создание кода...
+  laba_4.vcxproj -> C:\Users\dolgi\OneDrive\Вложения\Документы\Учеба\Дубль 2\инфа\лаб\laba\Debug\laba_4.exe
